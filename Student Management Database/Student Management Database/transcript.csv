@@ -1,0 +1,13 @@
+student_id,student,course,credits,instructor,term,grade
+1,Shahinda Mostafa,Database Systems,3,Dr. Ahmed Samir,Spring 2025,A
+1,Shahinda Mostafa,Data Analysis with Python,4,Eng. Hala Mansour,Spring 2025,B+
+1,Shahinda Mostafa,Business Intelligence,3,Dr. Nour El-Din,Spring 2025,A-
+2,Omar Elbaz,Database Systems,3,Dr. Ahmed Samir,Spring 2025,B
+2,Omar Elbaz,Algorithms,3,Dr. Nour El-Din,Spring 2025,A
+2,Omar Elbaz,Operating Systems,3,Dr. Nour El-Din,Spring 2025,B-
+3,Mariam Adel,Data Analysis with Python,4,Eng. Hala Mansour,Spring 2025,A
+3,Mariam Adel,Algorithms,3,Dr. Nour El-Din,Spring 2025,B+
+4,Kareem Hany,Database Systems,3,Dr. Ahmed Samir,Spring 2025,C+
+4,Kareem Hany,Business Intelligence,3,Dr. Nour El-Din,Spring 2025,B
+5,Salma Tarek,Data Analysis with Python,4,Eng. Hala Mansour,Spring 2025,A-
+5,Salma Tarek,Operating Systems,3,Dr. Nour El-Din,Spring 2025,B+
