@@ -1,0 +1,30 @@
+[
+  {
+    "roll_no": "std-01",
+    "gender": "male",
+    "race_ethnicity": "group D",
+    "parental_level_of_education": "some college",
+    "lunch": 1,
+    "test_preparation_course": 1,
+    "math_score": 89,
+    "reading_score": 38,
+    "writing_score": 85,
+    "science_score": 26,
+    "total_score": 238,
+    "grade": "C"
+  },
+  {
+    "roll_no": "std-02",
+    "gender": "male",
+    "race_ethnicity": "group B",
+    "parental_level_of_education": "high school",
+    "lunch": 1,
+    "test_preparation_course": 0,
+    "math_score": 65,
+    "reading_score": 100,
+    "writing_score": 67,
+    "science_score": 96,
+    "total_score": 328,
+    "grade": "A"
+  }
+]
